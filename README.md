@@ -7,8 +7,9 @@
 - 준비물: 노트북, 과제풀이
 
 ### 교재
-- 이것이 취업을 위한 코딩 테스트다 with 파이썬
-    <img src="https://user-images.githubusercontent.com/66542103/166221498-cce6cbe7-5dac-4752-bf50-b671711267af.png"
+- 이것이 취업을 위한 코딩 테스트다 with 파이썬  
+
+<img src="https://user-images.githubusercontent.com/66542103/166221498-cce6cbe7-5dac-4752-bf50-b671711267af.png"
 alt="교재 이미지" width="200" height="260"/>
 - 페이지: 604쪽
 - 목차
