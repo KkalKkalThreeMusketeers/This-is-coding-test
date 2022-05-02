@@ -41,3 +41,15 @@ alt="교재 이미지" width="200" height="260"/>
 ### OJ
 - [백준](https://www.acmicpc.net)
 - [프로그래머스](https://www.programmers.co.kr)
+
+### 참고
+- [기술면접 가이드](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+- [전공지식 & 기술면접](https://github.com/gyoogle/tech-interview-for-developer)
+- [주니어 개발자 취업정보](https://github.com/jojoldu/junior-recruit-scheduler)
+- [개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
+- [프론트엔드 자료 모음](https://velog.io/@sylagape1231/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C)
+- [백엔드 로드맵](https://velog.io/@geeneve/2021-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5)
+- [백엔드 면접](https://velog.io/@minsgy/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91%ED%95%99%EC%8A%B5%EB%82%B4%EC%9A%A9)
+- [컴공취준생 유용 링크1](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC)
+- [컴공취준생 유용 링크2](https://velog.io/@jeon3029/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-CS-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%8B%A8%EC%88%9C-%EB%A7%81%ED%81%AC-%EB%AA%A8%EC%9D%8C)
+- [그런 포트폴리오로 괜찮은가](https://velog.io/@junghyeonsu/%EA%B7%B8%EB%9F%B0-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A1%9C-%EA%B4%9C%EC%B0%AE%EC%9D%80%EA%B0%80)
