@@ -8,7 +8,7 @@
 
 ### 교재
 - 이것이 취업을 위한 코딩 테스트다 with 파이썬
-<img src="https://user-images.githubusercontent.com/66542103/166221498-cce6cbe7-5dac-4752-bf50-b671711267af.png"
+    <img src="https://user-images.githubusercontent.com/66542103/166221498-cce6cbe7-5dac-4752-bf50-b671711267af.png"
 alt="교재 이미지" width="200" height="260"/>
 - 페이지: 604쪽
 - 목차
@@ -53,3 +53,4 @@ alt="교재 이미지" width="200" height="260"/>
 - [컴공취준생 유용 링크1](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC)
 - [컴공취준생 유용 링크2](https://velog.io/@jeon3029/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B3%B5%ED%95%99-CS-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%8B%A8%EC%88%9C-%EB%A7%81%ED%81%AC-%EB%AA%A8%EC%9D%8C)
 - [그런 포트폴리오로 괜찮은가](https://velog.io/@junghyeonsu/%EA%B7%B8%EB%9F%B0-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%A1%9C-%EA%B4%9C%EC%B0%AE%EC%9D%80%EA%B0%80)
+- [네이버 개발자 블로그](https://d2.naver.com/helloworld)
