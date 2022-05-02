@@ -1,7 +1,6 @@
 # 알고리즘 스터디
 
 ## 계획
----
 ### 스터디
 - 일자: 매주 --일 --시
 - 장소: 디스코드
@@ -9,7 +8,8 @@
 
 ### 교재
 - 이것이 취업을 위한 코딩 테스트다 with 파이썬
-![교재 이미지](https://user-images.githubusercontent.com/66542103/166221498-cce6cbe7-5dac-4752-bf50-b671711267af.png)
+<img src="https://user-images.githubusercontent.com/66542103/166221498-cce6cbe7-5dac-4752-bf50-b671711267af.png"
+alt="교재 이미지" width="200" height="260"/>
 - 페이지: 604쪽
 - 목차
     - <b>PART 01 코딩 테스트, 무엇을 어떻게 준비할까?</b>
