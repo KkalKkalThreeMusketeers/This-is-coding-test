@@ -1,3 +1,4 @@
+# 아직 85점짜리 :)
 def solution(n, lost, reserve):
     answer = 0
 
