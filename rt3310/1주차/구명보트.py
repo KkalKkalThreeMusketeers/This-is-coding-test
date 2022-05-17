@@ -1,6 +1,5 @@
 from collections import deque
 
-
 def solution(people, limit):
     answer = 0
 

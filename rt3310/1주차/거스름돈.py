@@ -15,4 +15,3 @@ def solution(money):
     return answer
 
 print(solution(1260))
-
