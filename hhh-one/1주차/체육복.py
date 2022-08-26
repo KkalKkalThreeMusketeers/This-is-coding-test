@@ -1,21 +1,17 @@
-# 아직 85점짜리 :)
 def solution(n, lost, reserve):
-    answer = 0
-
-    answer += n - len(lost)  #체육복을 가지고 있는 학생들
+    # 체육복(uniform) 수를 나타내는 학생 수, 앞 뒤로 한명씩 추가
+    u = [1] * (n + 2) 
     
-    #잃어버렸지만 여분의 체육복이 있는 학생들
-    for l in lost:
-        for r in reserve:
-            if(l == r):
-                reserve.remove(r)
-                lost.remove(l)
-                answer += 1
-
-    for l in lost:
-        for r in reserve:
-            if(l == r - 1 or l == r + 1): #lost 기준 앞 뒤일 때
-                answer += 1
-                reserve.remove(r)
-                break #앞 뒤 중복해서 빌리는 경우를 제외하기 위함
-    return answer
+    for i in lost:
+        u[i] -= 1
+    for i in reserve:
+        u[i] += 1
+     
+    # 체육복이 없는 학생 기준으로 앞 -> 뒤 로 빌림
+    for i in range(1, n + 1):
+        if u[i] == 0 and u[i - 1] == 2:
+            u[i - 1:i + 1] = [1, 1]
+        elif u[i] == 0 and u[i + 1] == 2:
+            u[i:i + 2] = [1, 1]
+            
+    return len([x for x in u[1:-1] if x > 0])
